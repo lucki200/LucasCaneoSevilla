@@ -21,8 +21,7 @@ Soy un **Desarrollador Full Stack** apasionado por crear soluciones web que opti
 2. **[KioscoApp Deployment](https://github.com/lucki200/quioscoapp_deployment)**  
    _App para gestión de quioscos, con funcionalidades de administración de productos y pedidos en tiempo real._  
    **Tecnologías**: React, Node.js, MongoDB
-
----
+3. **[Control de Presupuesto](https://github.com/lucki200/ControlPresupuesto)**: Herramienta para controlar el presupuesto personal, creada con React y Tailwind CSS.
 
 ## 📫 ¿Cómo contactarme?
 
